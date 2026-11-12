@@ -11,6 +11,8 @@
 [![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Photo-PDF-Bidirectional-Converter)](https://github.com/SagarBiswas-MultiHAT/Photo-PDF-Bidirectional-Converter/commits)
 &nbsp;
 [![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/Photo-PDF-Bidirectional-Converter)](https://github.com/SagarBiswas-MultiHAT/Photo-PDF-Bidirectional-Converter/issues)
+&nbsp;
+[![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
 
 </div>
 
@@ -312,3 +314,11 @@ Try:
 
 This app runs on your computer.
 It does not upload your photos anywhere.
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
